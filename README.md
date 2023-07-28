@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HashirSalam Software Engineer at Checkout.com | Ex-Careem (Uber)
+- 👋 Hi, I’m @HashirSalam - Senior Software Engineer (React / Next.js)
 - 👀 I am a full-stack software engineer, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. I have experience using NextJs, ReactJS, Redux, Angular, Ionic, Javascript, Node.js, Flutter & Dart, and I've just started diving into lambda functions and S3 storage on AWS.
 
 - I have worked with MERN, MEAN stack, NextJS, Jest, React Testing Library, Monorepos, TailwindCSS, and Storybook.
