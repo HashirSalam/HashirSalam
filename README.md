@@ -21,6 +21,6 @@ I'm aiming at AI engineering — the engineering around models rather than the r
 **Engineering:** TypeScript · React · Next.js · Node · GraphQL · AWS · Docker
 **AI & data:** Python · scikit-learn · pandas · LLM APIs · agent tooling
 
-Helsinki · learning Finnish · looking for AI engineering roles and a thesis project.
+📍&nbsp; Helsinki &nbsp;·&nbsp; 🇫🇮&nbsp; learning Finnish &nbsp;·&nbsp; open to AI engineering roles and a thesis project
 
-→ **[hashir-salam.framer.website](https://hashir-salam.framer.website/)** · [LinkedIn](https://www.linkedin.com/in/hashir-salam-6a9155121/)
+🌐&nbsp; **[Portfolio](https://hashir-salam.framer.website/)** &nbsp;&nbsp;·&nbsp;&nbsp; 💼&nbsp; **[LinkedIn](https://www.linkedin.com/in/hashir-salam-6a9155121/)**
