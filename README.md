@@ -23,4 +23,4 @@ I'm aiming at AI engineering — the engineering around models rather than the r
 
 📍&nbsp; Helsinki &nbsp;·&nbsp; 🇫🇮&nbsp; learning Finnish &nbsp;·&nbsp; open to AI engineering roles and a thesis project
 
-🌐&nbsp; **[Portfolio](https://hashir-salam.framer.website/)** &nbsp;&nbsp;·&nbsp;&nbsp; 💼&nbsp; **[LinkedIn](https://www.linkedin.com/in/hashir-salam-6a9155121/)**
+🌐&nbsp; **[Portfolio](https://hashirsalam.me/)** &nbsp;&nbsp;·&nbsp;&nbsp; 💼&nbsp; **[LinkedIn](https://www.linkedin.com/in/hashir-salam-6a9155121/)**
